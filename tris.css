@@ -1,0 +1,27 @@
+#tabellaContenitore{
+    margin: 200px auto;
+}
+.tdTris{
+    width: 125px;
+    height: 125px;
+    border: 5px solid black;
+    text-align: center;
+    font-size: 90px;
+    font-weight: bolder;
+    background-color: aquamarine;
+}
+body{
+    background-image: url("sfondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ripeti{
+    background-color: red;
+    text-align: center;
+    color: seagreen;
+    border: violet;
+}
+#Welcome{
+    margin-left: 575px;
+    color: seagreen;
+}
